@@ -14,6 +14,6 @@ The starter code of this web application required restructuring to ensure access
 
 ---
 
-![Revised Horiseon Header](.horiseon-challege-1/assets/images/horiseon-header.png)
+![Revised Horiseon Header](/assets/images/horiseon-header.png)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
